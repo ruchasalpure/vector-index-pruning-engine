@@ -1,8 +1,0 @@
-{
-  "agent_id": "vector-index-pruning-engine",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
