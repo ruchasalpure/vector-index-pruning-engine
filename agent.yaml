@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "vector-index-pruning-engine"
+version: "1.0.0"
+category: "data-analytics"
+author: "Rucha Salpure"
+description: "Optimizes large-scale HNSW and IVF-PQ vector embeddings by pruning redundant graph edges and quantizing vectors without degrading recall thresholds"
+capabilities:
+  - "hnsw-graph-compaction"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "hnsw-graph-compaction"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

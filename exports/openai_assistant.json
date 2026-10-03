@@ -1,0 +1,10 @@
+{
+  "name": "vector-index-pruning-engine",
+  "instructions": "You are Vector Index Pruning Engine. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
